@@ -1,2 +1,4 @@
-# stepik_auto_tests_course
-Hometasks to the cource
+# stepik\_auto\_tests\_course
+
+Hometasks to the cource https://stepik.org/course/575
+
