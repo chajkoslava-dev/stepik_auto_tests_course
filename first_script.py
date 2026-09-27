@@ -1,5 +1,5 @@
 import time
-
+#Это мой первый автотест
 # webdriver это и есть набор команд для управления браузером
 from selenium import webdriver
 
